@@ -1,7 +1,5 @@
-[![MasterHead](https://github.com/KourosZanbouri/KourosZanbouri/raw/main/NetworkBG.gif)](https://kouroszanbouri.github.io/)
-<h1 align="center">
-  [![MasterHead](https://github.com/KourosZanbouri/KourosZanbouri/raw/main/NetworkBG.gif)](https://kouroszanbouri.github.io/)
-  Hi 👋, I'm Kouros Zanbouri</h1>
+[![MasterHead](https://github.com/KourosZanbouri/KourosZanbouri/raw/main/NetworkBGW8.gif)](https://kouroszanbouri.github.io/)
+<h1 align="center">Hi 👋, I'm Kouros Zanbouri</h1>
 <h3 align="center">A Computer Science, Researcher PhD Student</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kouroszanbouri&label=Profile%20views&color=0e75b6&style=flat" alt="kouroszanbouri" /> </p>
