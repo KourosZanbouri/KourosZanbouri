@@ -1,4 +1,4 @@
-[![MasterHead](https://github.com/KourosZanbouri/KourosZanbouri/raw/main/NetworkBG.gif)](https://kouroszanbouri.github.io/)
+<center>[![MasterHead](https://github.com/KourosZanbouri/KourosZanbouri/raw/main/NetworkBG.gif)](https://kouroszanbouri.github.io/)</center>
 <h1 align="center">Hi 👋, I'm Kouros Zanbouri</h1>
 <h3 align="center">A Computer Science, Researcher PhD Student</h3>
 
