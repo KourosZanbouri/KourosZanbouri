@@ -1,6 +1,10 @@
 
 [![MasterHead](https://github.com/KourosZanbouri/KourosZanbouri/raw/main/network3.gif)](https://kouroszanbouri.github.io/)
 
+<div align="center">
+  <img src="[MasterHead](https://github.com/KourosZanbouri/KourosZanbouri/raw/main/network3.gif)" alt="GIF" width="400">
+</div>
+
 <h1 align="center">Hi 👋, I'm Kouros Zanbouri</h1>
 <h3 align="center">A Computer Science, Researcher PhD Student</h3>
 
