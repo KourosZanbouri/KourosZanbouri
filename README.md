@@ -1,5 +1,5 @@
 
-[![MasterHead](https://github.com/KourosZanbouri/KourosZanbouri/raw/main/NetworkBGW8.gif)](https://kouroszanbouri.github.io/)
+[![MasterHead](https://github.com/KourosZanbouri/KourosZanbouri/raw/main/network3.gif)](https://kouroszanbouri.github.io/)
 
 <h1 align="center">Hi 👋, I'm Kouros Zanbouri</h1>
 <h3 align="center">A Computer Science, Researcher PhD Student</h3>
