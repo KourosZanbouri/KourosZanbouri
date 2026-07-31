@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/KourosZanbouri/KourosZanbouri/raw/main/network3.gif" alt="MasterHead" width="400">
+  <img src="https://github.com/KourosZanbouri/KourosZanbouri/raw/main/network5.gif" alt="MasterHead" width="400">
 </div>
 
 <h1 align="center">Hi 👋, I'm Kouros Zanbouri</h1>
